@@ -1,13 +1,11 @@
 # Install software on your computer
 
-
 ### Install [git](http://git-scm.com/).
 
 You have it installed if you can run `git --version` at the command
 line and get output like `git version 2.13.5`.
 
 Macbooks have git pre-installed.
-
 
 ### Install [Anaconda](http://continuum.io/downloads).
 
@@ -37,26 +35,22 @@ import statsmodels
 import sklearn
 ```
 
-### Install [Homebrew](http://brew.sh/) on Mac 
+### Install [Homebrew](http://brew.sh/) on Mac
 
 ---
 
 ### Q1. Python Version 2 or 3
 
-**Course material for the bootcamp is compatible with Python versions 2.7 and 3.0. All HackerRank Python pre-work is configured for Python 3 only.  Therefore, Python 3 is the recommended version.**  
+**Course material for the bootcamp is compatible with Python versions 2.7 and 3.0. All HackerRank Python pre-work is configured for Python 3 only. Therefore, Python 3 is the recommended version.**
 
-Did you install Python 2 or 3? Why?  
+Did you install Python 2 or 3? Why?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+> > I installed Python 3 because it is newer...
 
-### Q2. Which Python Version Installed   
+### Q2. Which Python Version Installed
 
 In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
-
+> > Python 3.7.0
