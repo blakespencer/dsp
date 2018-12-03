@@ -35,13 +35,14 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2. List Files in Unix
 
 What do the following commands do:
-`ls` lists all visible folders
-`ls -a` lists all existing folders
-`ls -l` lists the long format
-`ls -lh` lists long format as well as file sizes
-`ls -lah` prints all files in long format with sizes
-`ls -t` lists files in order from newest to oldest
-`ls -Glp`lists long format with a / and colour codes
+
+- `ls` lists all visible folders
+- `ls -a` lists all existing folders
+- `ls -l` lists the long format
+- `ls -lh` lists long format as well as file sizes
+- `ls -lah` prints all files in long format with sizes
+- `ls -t` lists files in order from newest to oldest
+- `ls -Glp`lists long format with a / and colour codes
 
 ---
 
@@ -49,11 +50,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-`ls -a`
-`ls -G`
-`ls -h`
-`ls -x`
-`ls -p`
+- `ls -a`
+- `ls -G`
+- `ls -h`
+- `ls -x`
+- `ls -p`
 
 ---
 
@@ -61,5 +62,5 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > Apply a given command to a series of things in order
+> > Apply a given command to a series of things in order.
 > > For example: if there is a command that outputs more than one thing, we can use xargs to apply some command to each output
